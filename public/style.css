@@ -1,0 +1,155 @@
+.image{
+    background-image: url(images/d1.jpg);
+width: 110vw;
+
+}
+
+.d{
+    background-color: burlywood;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.i{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.i span{
+    font-size: 10px;
+    margin-left: 10px;
+}
+
+.firstpara{
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.firstpara span{
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.firstpara a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.flex{
+    display: flex; 
+}
+
+.a{
+    color: burlywood;
+}
+
+.a span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 45px;
+}
+
+.secondpara{
+    background-color: black;
+}
+
+.z{
+    font-family: cursive;
+    font-size: 20px;
+    color: burlywood;
+}
+
+.z span{
+    font-size: 35px;
+    color: white;
+}
+
+.thirdpara{
+    background-color: black;
+}
+
+.ct{
+    background-color: burlywood;
+}
+
+.fthpara{
+    background-color: black;
+}
+
+.v{
+    display: flex;
+    background-color: black;
+}
+
+.sp{
+    font-family: cursive;
+    font-size: 10px;
+    color: darkgray;
+}
+
+.e{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.x{
+    background-color: black;
+ 
+}
+
+.r{
+    font-family: cursive;
+    text-align: center;
+}
+
+.w{
+    font-weight: bolder;
+}
+
+.overall{
+    overflow-x: hidden;
+}
+
+.q{
+    font-family: cursive;
+    text-align: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.r{
+    text-align: center;
+}
+
+.custom{
+    background-color: black;
+    margin: -100px;
+
+}
+
+.one{
+    color: white;
+    width: 100%;
+    font-size: 17px;
+    border: 1px solid black;
+    border-radius: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.color{
+background-color: black;
+}
+
+
+
+.cs{
+    background-color: black;
+}
+
